@@ -1,0 +1,20 @@
+export const defaultMapString = `AA1	A
+AA2	C
+AA3	D
+AA4	E
+AA5	F
+AA6	G
+AA7	H
+AA8	I
+AA9	K
+AA10	L
+AA11	M
+AA12	N
+AA13	P
+AA14	Q
+AA15	R
+AA16	S
+AA17	T
+AA18	V
+AA19	W
+AA20	Y`
